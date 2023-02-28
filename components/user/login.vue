@@ -78,14 +78,14 @@ export default {
 
 <style scoped>
     .cardLogin{
-        background-color: orange;
+        background-color: rgb(21, 163, 206);
         border-radius: 10px;
         width: 500px;
         height: 300px;
     }
     .imgLogin {
-        width: 100%;
-        height: 100%;
+        width: 90%;
+        height: 90%;
     }
     .btnLogin{
         background-color: red!important;
